@@ -4,7 +4,7 @@
     <title>Background Image</title>
     <style>
         body {
-            background-image: url('YOUR_IMAGE_URL');
+            background-image: url('https://github.com/yanzhuangnanqiang/yanzhuangnanqiang/blob/main/preview.jpg');
             background-size: cover;
         }
     </style>
