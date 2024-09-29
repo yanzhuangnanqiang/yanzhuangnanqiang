@@ -10,7 +10,7 @@
 <head>
 <style>
 body {
-    background-image: url('');
+    background-image: url('https://github.com/yanzhuangnanqiang/yanzhuangnanqiang/blob/main/preview.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
