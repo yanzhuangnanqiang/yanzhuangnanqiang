@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 <head>
     <style>
         body {
-            background-image: url('https://github.com/yanzhuangnanqiang/yanzhuangnanqiang/blob/main/preview.jpg');
+            background-image: url('preview.jpg');
             background-size: cover;
         }
     </style>
@@ -28,3 +28,15 @@ You can click the Preview link to take a look at your changes.
 
 </body>
 </html>
+
+-My state
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
+
+-vistors
+
+![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
+
+-Used languages
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yanzhuangnanqiang&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
