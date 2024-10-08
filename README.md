@@ -17,8 +17,8 @@ You can click the Preview link to take a look at your changes.
 </head>
 <body>
 
-    
-    - 👋 Hi, I’m @yanzhuangnanqiang
+
+- 👋 Hi, I’m @yanzhuangnanqiang
 - 👀 I’m interested in programming and reading
 - 🌱 I’m currently learning C language and Rust langyage
 - 💞️ I’m looking to collaborate on programming and those person who have been on the path of lifelong leaning
