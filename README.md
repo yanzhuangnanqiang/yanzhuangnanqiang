@@ -1,26 +1,22 @@
-- 👋 Hi, I’m @yanzhuangnanqiang
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body {
+            background-image: url('');
+            background-size: cover;
+        }
+    </style>
+</head>
+<body>
+    - 👋 Hi, I’m @yanzhuangnanqiang
 - 👀 I’m interested in programming and reading
 - 🌱 I’m currently learning C language and Rust langyage
 - 💞️ I’m looking to collaborate on programming and those person who have been on the path of lifelong leaning
 - 📫 How to reach me .you can call my number 19070942960 or add my QQ 2242276581
 - 😄 Pronouns: he/him
 - ⚡ Fun fact:i am acoward.
-- <!DOCTYPE html>
-<html>
-<head>
-<style>
-body {
-    background-image: url('https://github.com/yanzhuangnanqiang/yanzhuangnanqiang/blob/main/preview.jpg');
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-}
-</style>
-</head>
-<body>
- <!-- Your markdown content -->
- <h1>Welcome to My GitHub Repository</h1>
- <p>This is a paragraph in my README.</p>
+
 </body>
 </html>
 <!---
