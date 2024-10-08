@@ -8,15 +8,10 @@ You can click the Preview link to take a look at your changes.
 <!DOCTYPE html>
 <html>
 <head>
-    <style>
-        .responsive-background {
-            width: 100%;
-            height: auto;
-        }
-    </style>
+    
 </head>
 <body>
-    <img src="path/to/your/background.jpg" alt="Background Image" class="responsive-background">
+    <img src="https://github.com/yanzhuangnanqiang/yanzhuangnanqiang/blob/main/preview.jpg?raw=true" alt="Background Image" class="responsive-background">
 </body>
 </html>
 <body>
