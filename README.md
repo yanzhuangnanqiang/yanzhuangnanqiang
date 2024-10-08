@@ -9,12 +9,16 @@ You can click the Preview link to take a look at your changes.
 <html>
 <head>
     <style>
-        body {
-            background-image: url('preview.jpg');
-            background-size: cover;
+        .responsive-background {
+            width: 100%;
+            height: auto;
         }
     </style>
 </head>
+<body>
+    <img src="path/to/your/background.jpg" alt="Background Image" class="responsive-background">
+</body>
+</html>
 <body>
 
 
