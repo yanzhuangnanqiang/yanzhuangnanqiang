@@ -3,7 +3,7 @@
 <head>
     <style>
         body {
-            background-image: url('');
+            background-image: url('https://github.com/yanzhuangnanqiang/yanzhuangnanqiang/blob/main/preview.jpg');
             background-size: cover;
         }
     </style>
