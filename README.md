@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
 
 ### My state
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yanzhuangnanqiang)](https://github.com/anuraghazra/github-readme-stats)
 
 ### vistors
 
