@@ -70,7 +70,7 @@
 <h3 align="center">✿ 访客足迹 ✿</h3>
 
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/yanzhuangnanqiang/yanzhuangnanqiang&count_bg=%23C9A9B4&title_bg=%23B7B1C2&title=visitors&edge_flat=false" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=yanzhuangnanqiang&color=c9a9b4&style=flat-square" alt="Visitor Count" />
   <br/>
   <samp> 谢谢你来过，留下一片羽毛 ☁️ </samp>
 </p>
