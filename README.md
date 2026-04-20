@@ -1,86 +1,83 @@
 <!-- ============================================ -->
-<!-- 🎀 自定义指南：                                 -->
-<!-- 1. 替换所有 (✿◠‿◠) 为你喜欢的颜文字              -->
-<!-- 2. 修改「冒险手帐」表格中的内容                   -->
-<!-- 3. 更换 Buefy 为其他主题名以改变统计卡片颜色       -->
+<!-- 🧴 自定义指南                                 -->
+<!-- 1. 替换顶部大图的图片链接                      -->
+<!-- 2. 修改「今日手帐」表格中的内容                -->
+<!-- 3. 调整颜色码以匹配你喜欢的色调                -->
 <!-- ============================================ -->
 
 <div align="center">
-  <!-- 顶部大图，建议尺寸 1200x300 左右 -->
-  <img src="https://github.com/yanzhuangnanqiang/yanzhuangnanqiang/blob/main/preview.jpg?raw=true" width="100%" alt="cute banner"/>
+  <!-- 顶部大图，建议宽高比 4:1 左右 -->
+  <img src="https://github.com/yanzhuangnanqiang/yanzhuangnanqiang/blob/main/preview.jpg?raw=true" width="100%" alt="header"/>
 </div>
+
+<br/>
 
 <!-- 打招呼区域 -->
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" />
-  ✧･ﾟ: *✧･ﾟ:*  Hi, traveler!  *:･ﾟ✧*:･ﾟ✧
+  👋 Hi, I'm <strong>yanzhuangnanqiang</strong>
 </h1>
 
-<!-- 动态打字效果（可修改文字） -->
+<!-- 动态打字效果（中性清爽文案） -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7A1C4&center=true&vCenter=true&width=500&lines=Welcome+to+my+little+corner+%E2%9C%BF;I'm+a+coward+but+coding+bravely+%F0%9F%90%A3;Let's+grow+together+%E2%98%95%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4A8B9F&center=true&vCenter=true&width=500&lines=Learning+C+and+Rust.;Building+things+quietly.;Lifelong+learner." alt="Typing SVG" />
 </p>
 
 ---
 
-<!-- 可爱分隔线 -->
+<!-- 简洁分隔线 -->
 <p align="center">
-  <samp> ✦  ───────────  ੈ♡˳  ───────────  ✦ </samp>
+  <samp> ────── ☁️  ────── </samp>
 </p>
 
-<!-- 手帐表格区（可自由增删行） -->
-<h3 align="center">📔 今日冒险手帐</h3>
+<!-- 手帐表格区 -->
+<h3 align="center">📋 今日手帐</h3>
 
 <div align="center">
 
-| 🐣 About | 📝 Notes |
-|:--------:|:---------|
-| 当前修炼 | **C 语言** 与 **Rust 语言** |
-| 喜爱之事 | 编程 · 阅读 · 宅家发呆 |
-| 寻找伙伴 | 同样走在终身学习路上的你 |
-| 联络方式 | 私信 (･ω<)☆ |
-| 称呼 | he / him |
-| 小秘密 | 其实我很胆小啦 (◞‸◟ ) |
+| 🧩 条目 | ✏️ 备注 |
+|:------:|:--------|
+| 正在学习 | C 语言 · Rust 语言 |
+| 兴趣领域 | 编程 · 阅读 · 独立开发 |
+| 寻找伙伴 | 同样坚持终身学习的人 |
+| 联系方式 | 私信 |
+| 人称代词 | he / him |
+| 一个事实 | 胆小，但代码写得很认真。 |
 
 </div>
 
-<!-- 可爱分隔线 -->
 <p align="center">
-  <samp> ✦  ───────────  ੈ♡˳  ───────────  ✦ </samp>
+  <samp> ────── ☁️  ────── </samp>
 </p>
 
-<!-- 数据统计卡片区 -->
-<h3 align="center">📈 冒险数据面板</h3>
+<!-- 数据面板 -->
+<h3 align="center">📊 数据面板</h3>
 
 <p align="center">
-  <!-- GitHub 统计卡片 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=yanzhuangnanqiang&show_icons=true&theme=buefy&hide_border=true&bg_color=fff9fb&title_color=ff99c8&icon_color=ffb3c6&text_color=6c757d" width="48%" />
-  <!-- 常用语言卡片 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanzhuangnanqiang&layout=compact&theme=buefy&hide_border=true&bg_color=fff9fb&title_color=ff99c8&text_color=6c757d" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yanzhuangnanqiang&show_icons=true&theme=graywhite&hide_border=true&bg_color=f8f9fa&title_color=2c3e50&icon_color=4a8b9f&text_color=555555" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanzhuangnanqiang&layout=compact&theme=graywhite&hide_border=true&bg_color=f8f9fa&title_color=2c3e50&text_color=555555" width="45%" />
 </p>
 
-<!-- 可在此添加额外装饰，例如 streak 统计 -->
+<!-- 可选：连续打卡统计（去掉注释即可启用） -->
 <!--
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yanzhuangnanqiang&theme=soft&hide_border=true&background=fff9fb&stroke=ffb3c6&ring=ff99c8&fire=ff99c8&currStreakNum=6c757d&sideNums=6c757d&currStreakLabel=6c757d&sideLabels=6c757d&dates=adb5bd" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yanzhuangnanqiang&theme=soft&hide_border=true&background=f8f9fa&stroke=4a8b9f&ring=2c3e50&fire=4a8b9f&currStreakNum=555555&sideNums=555555&currStreakLabel=2c3e50&sideLabels=2c3e50&dates=999999" width="60%" />
 </p>
 -->
 
 ---
 
-<!-- 来访足迹区 -->
-<h3 align="center">🐾 来访小脚印</h3>
+<!-- 来访足迹 -->
+<h3 align="center">👣 访客足迹</h3>
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/yanzhuangnanqiang/count.svg" alt="visitor count"/>
   <br/>
-  <!-- 可替换下方动图为其他可爱 gif -->
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" />
+  <samp> 谢谢你来过 ☕️ </samp>
 </p>
 
 <!-- 签名区 -->
 <p align="center">
-  <samp> “小小的勇气，也是勇气。” 🍀 </samp>
+  <samp> “写代码，安静点也挺好。” </samp>
   <br/>
-  <samp> ——— ✦ 感谢你来过 ✦ ——— </samp>
+  <samp> ———  ⌨️  ——— </samp>
 </p>
