@@ -70,7 +70,7 @@
 <h3 align="center">👣 访客足迹</h3>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/yanzhuangnanqiang/count.svg" alt="visitor count"/>
+  ![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/yanzhuangnanqiang/yanzhuangnanqiang&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)
   <br/>
   <samp> 谢谢你来过 ☕️ </samp>
 </p>
