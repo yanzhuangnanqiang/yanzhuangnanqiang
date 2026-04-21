@@ -22,12 +22,25 @@
 
 ---
 
+<p align="center">
+  <a href="https://yanzhuangnanqiang.github.io" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Serif+SC&weight=500&size=22&duration=3000&pause=1000&color=C9A9B4&center=true&vCenter=true&width=600&height=40&lines=☁️+点击进入我的清风手帐主页☁️" alt="进入个人主页">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://yanzhuangnanqiang.github.io">
+    <img src="https://img.shields.io/badge/🌿+个人主页-塞琳娜清风手帐-C9A9B4?style=for-the-badge" alt="个人主页">
+  </a>
+</p>
+
 <!-- 唯美分隔线 -->
 <p align="center">
   <samp> · · ──────  ✦  ────── · · </samp>
 </p>
 
 <!-- 手帐表格区 -->
+
 <h3 align="center">✎ 今日手帐 ˎˊ˗</h3>
 
 <div align="center">
@@ -51,15 +64,15 @@
 <h3 align="center">✧ 数据面板 ✧</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yanzhuangnanqiang&show_icons=true&theme=graywhite&hide_border=true&bg_color=fdfbf7&title_color=c9a9b4&icon_color=b7b1c2&text_color=6e6a6f" width="58%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yanzhuangnanqiang&show_icons=true&theme=graywhite&hide_border=true&bg_color=fdfbf7&title_color=c9a9b4&icon_color=b7b1c2&text_color=6e6a6f" width="50%" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanzhuangnanqiang&layout=compact&theme=graywhite&hide_border=true&bg_color=fdfbf7&title_color=c9a9b4&text_color=6e6a6f" width="55%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanzhuangnanqiang&layout=compact&theme=graywhite&hide_border=true&bg_color=fdfbf7&title_color=c9a9b4&text_color=6e6a6f" width="50%" />
 </p>
 
 <!-- 连续打卡统计 -->
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yanzhuangnanqiang&theme=soft&hide_border=true&background=fdfbf7&stroke=b7b1c2&ring=c9a9b4&fire=c9a9b4&currStreakNum=6e6a6f&sideNums=6e6a6f&currStreakLabel=c9a9b4&sideLabels=c9a9b4&dates=b7b1c2" width="70%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yanzhuangnanqiang&theme=soft&hide_border=true&background=fdfbf7&stroke=b7b1c2&ring=c9a9b4&fire=c9a9b4&currStreakNum=6e6a6f&sideNums=6e6a6f&currStreakLabel=c9a9b4&sideLabels=c9a9b4&dates=b7b1c2" width="50%" />
   <br/>
 </p>
 -->
