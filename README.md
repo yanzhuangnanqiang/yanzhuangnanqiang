@@ -51,7 +51,7 @@
 <h3 align="center">✧ 数据面板 ✧</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yanzhuangnanqiang&show_icons=true&theme=graywhite&hide_border=true&bg_color=fdfbf7&title_color=c9a9b4&icon_color=b7b1c2&text_color=6e6a6f" width="68%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yanzhuangnanqiang&show_icons=true&theme=graywhite&hide_border=true&bg_color=fdfbf7&title_color=c9a9b4&icon_color=b7b1c2&text_color=6e6a6f" width="58%" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanzhuangnanqiang&layout=compact&theme=graywhite&hide_border=true&bg_color=fdfbf7&title_color=c9a9b4&text_color=6e6a6f" width="55%" />
 </p>
@@ -59,7 +59,7 @@
 <!-- 连续打卡统计 -->
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yanzhuangnanqiang&theme=soft&hide_border=true&background=fdfbf7&stroke=b7b1c2&ring=c9a9b4&fire=c9a9b4&currStreakNum=6e6a6f&sideNums=6e6a6f&currStreakLabel=c9a9b4&sideLabels=c9a9b4&dates=b7b1c2" width="75%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yanzhuangnanqiang&theme=soft&hide_border=true&background=fdfbf7&stroke=b7b1c2&ring=c9a9b4&fire=c9a9b4&currStreakNum=6e6a6f&sideNums=6e6a6f&currStreakLabel=c9a9b4&sideLabels=c9a9b4&dates=b7b1c2" width="70%" />
   <br/>
 </p>
 -->
