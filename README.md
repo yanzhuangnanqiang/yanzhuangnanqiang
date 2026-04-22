@@ -30,7 +30,7 @@
 
 <p align="center">
   <a href="https://yanzhuangnanqiang.github.io">
-    <img src="https://img.shields.io/badge/🌿+个人主页-塞琳娜清风手帐-C9A9B4?style=for-the-badge" alt="个人主页">
+    <img src="https://img.shields.io/badge/🌿-塞琳娜清风手帐-C9A9B4?style=for-the-badge" alt="个人主页">
   </a>
 </p>
 
